@@ -1,0 +1,8 @@
+name = "eba-tour"
+compatibility_date = "2026-11-04"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ebatourdb"
+database_id = "6fcf6686-a03e-4e9e-870a-14813689e2dc"
